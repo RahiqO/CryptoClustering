@@ -1,1 +1,1 @@
-# CryptoClustering
+# CryptoClustering - unsupervised ML project 
